@@ -1,8 +1,8 @@
 <div align="center">
-<div style="display: flex; justify-content: center; align-items: center; gap: 300px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   
-  <img src="/assets/manosaba.png" alt="machu_run" />
-  <img width="360em" src="https://github-readme-stats.vercel.app/api?username=jasoneri&show_icons=true&bg_color=80,3c76ba,7ec1ff,92b3ef&title_color=fff6d0&hide_border=true&icon_color=e9ede1&text_color=c3d596" alt="jasoneri" />
+  <img src="https://img.comicguispider.nyc.mn/file/cgs/1770125621285_loading.png" alt="gif" />
+  <img width="360em" src="https://ghstat.101114105.xyz/api?username=jasoneri&show_icons=true&bg_color=60,ef4057,cf4057,c44490&title_color=4df5b4&hide_border=true&icon_color=e9ede1&text_color=e9ede1" alt="jasoneri" />
 
 </div>
 </div>
